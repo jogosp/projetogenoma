@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Jogo sobre Projeto Genoma</title>
+</head>
+<body>
+    <div class="start-screen">
+        <h1>Jogo sobre Projeto Genoma</h1>
+        <button id="start-button">JOGAR</button>
+    </div>
+    <div class="game-container" style="display: none;">
+        <div class="container">
+            <h1>Jogo sobre Projeto Genoma</h1>
+            <p>Pergunta <span id="question-number">1</span>:</p>
+            <p id="question">O que é o Projeto Genoma Humano?</p>
+            <div class="options">
+                <button class="option">Um programa de computador</button>
+                <button class="option">Um projeto de sequenciamento de DNA</button>
+                <button class="option">Um projeto de exploração espacial</button>
+                <button class="option">Um projeto de construção de carros autônomos</button>
+            </div>
+            <p>Pontuação: <span id="score">0</span></p>
+            <img id="end-image" style="display: none;" src="" alt="Imagem do final do jogo">
+            <p class="end-message" id="end-message-win"></p>
+            <video id="easter-egg-video" style="display: none;" controls>
+                <source src="boomshakalaka.mp4" type="video/mp4">
+                Seu navegador não suporta o elemento de vídeo.
+            </video>
+        </div>
+    </div>
+    <p class="textofinal">Copyright Lucas & Greg 2023&copy;</p>
+    <script src="script.js"></script>
+</body>
+</html>
