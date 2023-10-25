@@ -40,9 +40,9 @@ const questions = [
         correctAnswer: "Sequenciamento de Nova Geração (NGS)"
     },
     {
-        question: "Qual é a importância do Projeto Genoma para a medicina?",
-        options: ["Permite a clonagem de seres humanos", "Facilita a produção de alimentos geneticamente modificados", "Ajuda a compreender doenças genéticas e desenvolver terapias", "Cria super-humanos"],
-        correctAnswer: "Ajuda a compreender doenças genéticas e desenvolver terapias"
+        question: "Quais são os benefícios potenciais do Projeto Genoma?",
+        options: ["Desenvolvimento de armas biológicas", "Compreensão de doenças genéticas e desenvolvimento de terapias", "Aumento da clonagem humana", "Exploração espacial"],
+        correctAnswer: "Compreensão de doenças genéticas e desenvolvimento de terapias"
     },
     {
         question: "Quem é conhecido por sua contribuição para a técnica de edição genética CRISPR-Cas9?",
@@ -65,9 +65,9 @@ const questions = [
         correctAnswer: "O estudo das diferenças entre genes humanos e genes de outras espécies"
     },
     {
-        question: "Qual é a importância do Projeto 1000 Genomas?",
-        options: ["Sequenciar o genoma de 1000 cientistas famosos", "Criar 1000 clones humanos", "Mapear variações genéticas em populações humanas", "Estudar 1000 genes específicos relacionados a doenças genéticas"],
-        correctAnswer: "Mapear variações genéticas em populações humanas"
+        question: "Quais são as preocupações éticas em relação ao Projeto Genoma?",
+        options: ["Acesso irrestrito às informações genéticas de indivíduos", "Uso de sequenciamento de DNA para fins criminosos", "Desenvolvimento de tratamentos personalizados", "Aumento da conscientização sobre saúde genética"],
+        correctAnswer: "Acesso irrestrito às informações genéticas de indivíduos"
     }
 ];
 
