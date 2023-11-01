@@ -51,7 +51,7 @@ const questions = [
     },
     {
         question: "Qual é a sigla do Projeto Genoma Humano?",
-        options: ["PGH", "DNAPG", "HGP", "PGS"],
+        options: ["PGG", "DNAPG", "HGP", "PGS"],
         correctAnswer: "HGP"
     },
     {
