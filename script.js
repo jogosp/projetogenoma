@@ -66,7 +66,7 @@ const questions = [
     },
     {
         question: "Quais são as preocupações éticas em relação ao Projeto Genoma?",
-        options: ["Acesso irrestrito às informações genéticas de indivíduos", "Uso de sequenciamento de DNA para fins criminosos", "Desenvolvimento de tratamentos personalizados", "Aumento da conscientização sobre saúde genética"],
+        options: ["Acesso irrestrito às informações genéticas de indivíduos", "Uso de sequenciamento de DNA para fins arquitetônicos", "Desenvolvimento de tratamentos personalizados", "Aumento da conscientização sobre saúde genética"],
         correctAnswer: "Acesso irrestrito às informações genéticas de indivíduos"
     }
 ];
